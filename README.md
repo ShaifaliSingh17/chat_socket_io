@@ -1,13 +1,27 @@
-This folder contains the code to create a real time application with React, Angular, Vue and socket.io with NodeJS.
-Angular version is 12 and node is built with express framework. Socket.io version is v4
-To read about the article you can follow the article link at my website.
-PART 2 code is available on this branch: https://github.com/deepinder10/socketio-example/tree/PART-2
+# SocketioAngular
 
-React:
-https://deepinder.me/creating-a-real-time-chat-application-with-angular-and-socket-io-with-nodejs/
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
-Angular:
-https://deepinder.me/creating-a-real-time-app-with-angular-8-and-socket-io-with-nodejs/
+## Development server
 
-Vue:
-https://deepinder.me/creating-a-real-time-chat-app-with-vue-socket-io-and-nodejs/
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
